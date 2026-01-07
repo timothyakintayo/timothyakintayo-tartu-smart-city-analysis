@@ -1,5 +1,6 @@
 # Smart Sustainable Futures: A Participatory Design Analysis of Tartu, Estonia
 ![Smartovka](figures/smart_okva.png)
+
 **Project Type:** Collaborative Research Case Study  
 **Institution:** Gdańsk University of Technology  
 **Course:** Exploring Citizen Engagement for Smart Sustainable Cities  
@@ -86,6 +87,7 @@ To solve the exclusion problem without abandoning technology, we proposed a **Hy
 * `figures/` - Extracted charts and maps from the study.
 * `data_references/` - Links to the open datasets (Tartu Open Data) referenced in the study are in the references section of the study.
 ---
-The full report of this research can be read at ![Tartu_Smart_City_Report.pdf](Tartu_Smart_City_Report.pdf)
+The full report of this research can be read here:  
+[Tartu Smart City Report (PDF)](Tartu_Smart_City_Report.pdf)
 
 *This research was conducted as part of the MSc curriculum at Gdańsk University of Technology. Co-researchers: Sanni Habeebulahi Gbolahan, Desire Kabuya.*
