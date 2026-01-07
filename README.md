@@ -42,7 +42,6 @@ This research investigates a critical gap in Tartu's strategy: **The Digital Div
 We moved beyond standard policy review by applying rigorous sociological frameworks to urban data:
 
 * **Arnstein’s Ladder of Citizen Participation:** Used to audit the true level of power citizens hold in Tartu.
-![Arnstein_ladder_Tartu_report](figures/arnstein_ladder_from_report.jpg)
     * *Result:* Tartu operates at **Rung 6 (Partnership)** for digital natives, but **Rung 3 (Informing)** for the elderly.
 * **Data-Driven Mobility Analysis:** Reviewed anonymized mobile positioning data used by the municipality to redesign the bus network from circular to pendular lines.
 
