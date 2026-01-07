@@ -60,12 +60,13 @@ Despite introducing bike-sharing and data-optimized bus routes to reduce carbon 
 ### 3. The "Smartovka" Retrofit
 Retrofitting *Khrushchyovkas* (Soviet panel buildings) reduced energy costs by nearly 60%, but residents reported feeling a loss of control due to automated heating systems they could not manually adjust.
 
-## 📊 Visualizations
 ---
+## 📊 Visualizations
 ### Arnstein's Ladder Assessment
 *Mapping Tartu's engagement strategies against the hierarchy of citizen power.*
 ![Arnstein's Ladder](figures/arnstein_ladder_from_report.jpg)
 **(See report Page 16 for detailed analysis)**
+
 ---
 ### Data-Driven Bus Network Redesign
 **Transition from inefficient circular routes to linear pendular lines based on mobile positioning data.**
@@ -73,8 +74,8 @@ Retrofitting *Khrushchyovkas* (Soviet panel buildings) reduced energy costs by n
 **(See report Page 22)**
 
 ---
-## 💡 Recommendations (The "Phygital" Approach)
-To solve the exclusion problem without abandoning technology, we proposed a **Hybrid Consultation Model**:
+## 💡 Recommendations
+To solve the exclusion problem improve citizen engagement and several other challenges the city currently faces, the following is recommended:
 1.  To further improve Tartu’s sustainability goal and transition towards becoming a smart sustainable city, the city should offer targeted initiatives for older adults as it seems as if the participatory budgeting focuses more on the youths. Where as adults might as well have local needs that they wish to address but because they are not technologically savvy this might be a challenge making them marginalized. It is thus recommended that targeted initiatives asides the online platform perhaps a public office where projects can be submitted by the older groups to mitigate the digital divide and increase inclusivity. 
 2.  Tartu should invest more in circular economy initiatives and recycling facilities to bring about reduction in landfill waste and promote more reuse. 
 3.  Incorporate technology such as IoT to its waste disposals that will help the collection services to get real time information when wastes are full.
@@ -85,6 +86,7 @@ To solve the exclusion problem without abandoning technology, we proposed a **Hy
 * `Tartu_Smart_City_Report.pdf` - The complete 28-page analysis.
 * `figures/` - Extracted charts and maps from the study.
 * `data_references/` - Links to the open datasets (Tartu Open Data) referenced in the study are in the references section of the study.
+
 ---
 The full report of this research can be read here:  
 [Tartu Smart City Report (PDF)](Tartu_Smart_City_Report.pdf)
